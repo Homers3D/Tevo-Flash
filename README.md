@@ -4,6 +4,11 @@
 Welcome to the Github of the TEVO Flash 3D printer - you find here the latest firmware & documents for your Flash. Please take time and have detailed look at the infos provided on this page to be sure to update the correct firmware for your motherboard and version of 3d printer.
 
 
+| Printer         | Flash             |
+| --------------- |:-----------------:|
+| Motherboard     | MKS Base Gen L    |
+| Firmware        | Marlin            |
+| Actual Version  | T-FL-X.XXXX       |
 
 
 ## Introduction 
