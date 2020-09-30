@@ -52,5 +52,3 @@ Welcome to the Github of the TEVO Flash 3D printer - you find here the latest fi
 - [TEVO Official Webshop](https://tevo3dprinterstore.com "Visit TEVO Official Webshop")
 - [TEVO Aliexpress Shop](https://tevo.aliexpress.com/store/2010004 "Visit TEVO Aliexpress Shop")
 - [TEVO Amazon Store](https://www.amazon.com/stores/node/9447801011 " Visit TEVO Amazon Store")
-
-
